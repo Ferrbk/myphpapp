@@ -1,0 +1,10 @@
+{
+    "name": "myvender/myphpapp",
+    "description": "project",
+    "autoload": {
+        "psr-4": {
+            "Myvender\\Myphpapp\\": "src/"
+        }
+    },
+    "require": {}
+}
